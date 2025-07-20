@@ -9,7 +9,7 @@ if "bot" not in st.session_state:
 
 bot = st.session_state.bot
 
-st.title("💰 Chatbot Financeiro")
+st.title("💰 Gestor Financeiro")
 
 # Tabs para separar entrada
 tab1, tab2 = st.tabs(["Adicionar Gasto", "Adicionar Receita"])
